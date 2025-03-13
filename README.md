@@ -5,7 +5,7 @@ Este es un proyecto de demostración utilizando Spring Boot para la gestión de ta
 
 ## Enlace al Código Fuente
 Puedes acceder al código fuente del proyecto en el siguiente enlace de GitHub:
-[Repositorio de GitHub](https://github.com/ajgines-contractor_bbvaemu/task)
+https://github.com/AbrahamJGines/ProjectTasks.git
 
 ## Implementación
 
